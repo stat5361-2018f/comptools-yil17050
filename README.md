@@ -36,3 +36,15 @@ RMarkdown
 * Beware caching: after changing the size of an image you may need to
   clear the cache before it is correctly updated.
 # comptools-yil17050
+Basically installing every package that the error said and the font that that the pdf book needs. But I have not figure out what happened on 251-258 (introduction. Rmd). So I just delete those lines. 
+
+Quitting from lines 251-258 (Introduction.Rmd) 
+Error in x : $ operator is invalid for atomic vectors
+Calls: local ... <Anonymous> -> dependent_packages -> data.frame -> vapply -> FUN
+Execution halted
+Error in Rscript_render(f, render_args, render_meta) : 
+  Failed to compile Introduction.Rmd
+Calls: <Anonymous> ... render_book -> render_new_session -> Rscript_render
+Execution halted
+
+Exited with status 1.
