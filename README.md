@@ -36,7 +36,7 @@ RMarkdown
 * Beware caching: after changing the size of an image you may need to
   clear the cache before it is correctly updated.
 # comptools-yil17050
-Basically installing every package that the error said and the font that that the pdf book needs. But I have not figure out what happened on 251-258 (introduction. Rmd). So I just delete those lines. 
+Basically installing every package that the error said and the font that the pdf book needs. But I have not figure out what happened on line 251-258 (introduction. Rmd). So I just delete those lines. 
 
 Quitting from lines 251-258 (Introduction.Rmd) 
 Error in x : $ operator is invalid for atomic vectors
